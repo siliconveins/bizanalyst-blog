@@ -7,7 +7,7 @@ comments: false
 
 ## This thing is pretty cool
 
-![Jekyll Photo](http://img05.deviantart.net/a048/i/2010/231/b/8/jekyll_wallpaper_by_jekyllita.jpg)
+![Jekyll Photo](https://upload.wikimedia.org/wikipedia/en/d/d9/Jekyll_2007_title_card.jpg)
 
 Things to remember:
 + thing 1
