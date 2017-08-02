@@ -6,13 +6,28 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!-- Open Graph -->
+  <meta property="fb:app_id" content="1855967954619844" />
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}">
   <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:locale" content="en_IN" />
   <meta property="og:site_name" content="{{ site.name }}">
   <meta property="og:image" content="{% if page.imagefeature %}{{ site.url }}/images/{{ page.imagefeature }}{% else %}{{ site.url }}/images/logo-white-30x30.png{% endif %}">
+
+  <!-- Google structured data -->
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org/",
+      "@type": "Blog",
+      "name": "{{ site.name }}",
+      "logo": "{{ site.url }}/images/logo-white-30x30.png",
+      "image": "{{ site.url }}/images/logo-white-30x30.png",
+      "description": "{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}"
+    }
+  </script>
+
   <script src="{{ site.baseurl }}/js/jquery.min.js"></script>
   <script src="{{ site.baseurl }}/js/bootstrap.min.js"></script>
   <link href="https://fonts.googleapis.com/css?family=Arimo:400,400i,700,700i" rel="stylesheet">
