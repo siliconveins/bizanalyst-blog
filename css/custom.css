@@ -83,14 +83,15 @@ a {
   outline: none;
   border-radius: 2px;
   box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
-  background-color: #2ecc71;
+  background-color: #ff5252;
   color: #fff;
   transition: background-color .3s;
 }
 
 .btn:hover,
 .btn:focus {
-  background-color: #27ae60;
+  background-color: #e54949;
+  color: #fff;
 }
 
 .btn>* {
