@@ -1,0 +1,146 @@
+/**
+ * Override default classes begin here
+ **/
+
+a {
+  cursor: pointer;
+}
+
+.navbar-brand {
+  float: left;
+  height: 50px;
+  padding: 10px 15px;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+.navbar-inverse {
+  background-color: #03a9f4;
+  border-color: #03a9f9;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: #fff;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover {
+  color: #fff;
+  background-color: #0298db;
+}
+
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:hover,
+.navbar-inverse .navbar-nav>.active>a:focus {
+  color: #fff;
+  background-color: #0298db;
+}
+
+.navbar-inverse .navbar-nav>.accent-btn>a,
+.navbar-inverse .navbar-nav>.accent-btn>a:hover,
+.navbar-inverse .navbar-nav>.accent-btn>a:focus {
+  color: #fff;
+  background-color: #ff5252;
+}
+
+.navbar-inverse .navbar-brand {
+  color: #fff;
+}
+
+.well h1 {
+  color: #ff5252;
+  font-size: 1.3em;
+}
+
+.footer p {
+  margin: 5px 0 5px !important;
+}
+
+
+/**
+ * Custom classes begin here
+ **/
+
+.sub-line {
+  position: fixed;
+  text-align: center;
+  padding: 8px;
+  border-bottom: 1px solid #ececec;
+  font-size: 13px;
+  background-color: #f1f1f1;
+  z-index: 1000;
+  left: 0;
+  right: 0;
+  top: 50px;
+  height: 46px;
+  color: #1a1a1a;
+}
+
+.btn {
+  padding: 6px 14px;
+  font-size: 12px;
+  overflow: hidden;
+  border-width: 0;
+  outline: none;
+  border-radius: 2px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+  background-color: #2ecc71;
+  color: #fff;
+  transition: background-color .3s;
+}
+
+.btn:hover,
+.btn:focus {
+  background-color: #27ae60;
+}
+
+.btn>* {
+  position: relative;
+}
+
+.btn span {
+  display: block;
+  padding: 12px 24px;
+}
+
+.btn:before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  display: block;
+  width: 0;
+  padding-top: 0;
+  border-radius: 100%;
+  background-color: rgba(236, 240, 241, .3);
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.btn:active:before {
+  width: 120%;
+  padding-top: 120%;
+  transition: width .2s ease-out, padding-top .2s ease-out;
+}
+
+.btn.red {
+  background-color: #ff5252;
+  color: #fff;
+}
+
+.btn.red:hover,
+.btn.red:focus {
+  background-color: #e54949;
+  color: #fff;
+}
+
+.main-area {
+  padding: 44px 0 0 0;
+}
+
+.center-table {
+  margin: 0 auto !important;
+  float: none !important;
+}
