@@ -5,8 +5,7 @@ date: 2017-07-31 16:25:06 +0530
 comments: false
 ---
 
-This thing is pretty cool
-===========
+## This thing is pretty cool
 
 {% include youtubeplayer.html id="E0RbrYSMw3g" %}
 
