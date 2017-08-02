@@ -3,7 +3,7 @@ layout: post
 title: "Hello Duniya"
 date: 2017-07-31 16:25:06 +0530
 description: "Hello duniya description"
-imagefeature: "https://upload.wikimedia.org/wikipedia/en/d/d9/Jekyll_2007_title_card.jpg"
+imagefeature: "https://jekyllrb.com/img/logo-2x.png"
 comments: false
 ---
 
