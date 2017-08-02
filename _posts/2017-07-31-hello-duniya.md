@@ -8,9 +8,9 @@ comments: false
 
 ## This thing is pretty cool
 
-{% include youtubeplayer.html id="E0RbrYSMw3g" width="350" height="200" %}
+{% include youtubeplayer.html id="E0RbrYSMw3g" width="100%" height="300" %}
 
-![Jekyll Photo](https://upload.wikimedia.org/wikipedia/en/d/d9/Jekyll_2007_title_card.jpg)
+![Jekyll Photo](https://upload.wikimedia.org/wikipedia/en/d/d9/Jekyll_2007_title_card.jpg){:height="200px" width="100%"}
 
 Things to remember:
 + thing 1
