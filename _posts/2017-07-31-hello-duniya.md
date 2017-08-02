@@ -8,7 +8,7 @@ comments: false
 
 ## This thing is pretty cool
 
-{% include youtubeplayer.html id="E0RbrYSMw3g" %}
+{% include youtubeplayer.html id="E0RbrYSMw3g" width="350" height="200" %}
 
 ![Jekyll Photo](https://upload.wikimedia.org/wikipedia/en/d/d9/Jekyll_2007_title_card.jpg)
 
