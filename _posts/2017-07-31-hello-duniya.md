@@ -1,6 +1,6 @@
 ---
 layout: post
-metaTile: "Tally Mobile App | Hello Duniya"
+metaTitle: "Tally Mobile App | Hello Duniya"
 title: "Hello Duniya"
 date: 2017-07-31 16:25:06 +0530
 description: "Hello duniya description"
