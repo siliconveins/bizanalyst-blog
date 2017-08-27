@@ -50,6 +50,7 @@ a {
   font-size: 20px;
 }
 
+/**
 .well h1,
 .well h2,
 .well h3,
@@ -59,6 +60,7 @@ a {
 .well h7 {
   color: #ff5252;
 }
+*/
 
 .well h1 {
   font-size: 1.9em;
