@@ -10,7 +10,9 @@ comments: false
 
 Now, switch to the ![latest version (1.4.6) of Biz Analyst for Android](https://play.google.com/store/apps/details?id=in.bizanalyst). Enjoy analyzing your data and day to day activities with simplicity:
 
-# Configuration to view preview of PDF before sharing
+PDF Preview Configuration
+=========================
+Now you can configure your app to view the PDF preview every time before sharing a PDF through any of the supported applications. Change this configuration by going to 'Settings -> Share -> PDF Preview'. This makes it extremely easy to verify the data you are about to share through PDF and verify if it accurate and similar to what you share from your Tally ERP9.
 
 + We have added a configuration to preview the PDF file that you are about to share. Configuration to view PDF preview before sharing (Settings -> Share)
 + Configuration to share narration in ledger report (Settings -> Ledger Report)
