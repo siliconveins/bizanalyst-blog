@@ -9,11 +9,6 @@ comments: false
 ---
 
 
-{: .text-center}
-[UPDATE NOW](https://play.google.com/store/apps/details?id=in.bizanalyst){: .ghost-btn}
-  
-
-
 ## PDF Preview Configuration
 Now you can configure your app to view the PDF preview every time before sharing a PDF through any of the supported applications. Change this configuration by going to 'Settings -> Share -> PDF Preview'. This makes it extremely easy to verify the data you are about to share through PDF and verify if it accurate and similar to what you share from your Tally ERP9.
   

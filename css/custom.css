@@ -63,8 +63,8 @@ a {
 */
 
 .well h1 {
-  font-size: 1.9em;
-  font-weight: 600;
+  font-size: 1.8em;
+  font-weight: 400;
 }
 
 .well h1 a {
@@ -108,8 +108,8 @@ a {
   display: inline-block;
   text-decoration: none;
   border: 1px solid #03a9f4;
-  height: 36px;
-  line-height: 36px;
+  height: 30px;
+  line-height: 30px;
   color: #03a9f4;
   -webkit-border-radius: 5px;
   -webkit-background-clip: padding-box;
