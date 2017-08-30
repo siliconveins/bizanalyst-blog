@@ -48,6 +48,17 @@ a {
 
 .article {
   font-size: 18px;
+  padding-bottom: 36px;
+}
+
+.post-title {
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+.article > h2 {
+  padding-top: 8px;
+  padding-bottom: 8px;
 }
 
 /**
