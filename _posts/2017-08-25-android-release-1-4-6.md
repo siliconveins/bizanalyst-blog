@@ -32,5 +32,5 @@ Some of the android devices faced problems with auto-syncing because of battery 
 
 
 {: .text-center}
-[UPDATE NOW](https://play.google.com/store/apps/details?id=in.bizanalyst){: .ghost-btn}
+[UPDATE ANDROID](https://play.google.com/store/apps/details?id=in.bizanalyst){: .ghost-btn}
 
