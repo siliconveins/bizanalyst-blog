@@ -40,9 +40,47 @@
 
   <div class="container-fluid">
     <div class="row-fluid">
-      <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <nav class="website-nav">
+        <div class="navbar-header" id="page-top">
+          <a class="website-brand" id="brand" href="https://bizanalyst.in" target="_blank">
+            <table border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td>
+                  <img src="{{site.baseurl}}/images/logo-30x30.png" width="25" height="25" />
+                </td>
+                <td valign="middle">
+                  &nbsp; Biz Analyst
+                </td>
+              </tr>
+            </table>
+          </a>
+          <button type="button" class="navbar-toggle custom-navbar-toggle" data-toggle="collapse" data-target="#website-nav-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar theme-background"></span>
+            <span class="icon-bar theme-background"></span>
+            <span class="icon-bar theme-background"></span>
+          </button>
+
+          <div class="try-btn-container">
+            <a href="https://bizanalyst.in/try-it-free.html" target="_blank" class="try-btn red">Try It Free</a>
+          </div>
+        </div>
+
+        <div class="navbar-collapse collapse custom-navbar-collapse navbar-right navbar-margin" id="website-nav-collapse">
+          <ul class="nav navbar-nav web-nav">
+            <li><a href="https://bizanalyst.in/#aboutus" target="_blank">About us</a></li>
+            <li><a href="https://bizanalyst.in/#features" target="_blank">Features</a></li>
+            <li><a href="https://bizanalyst.in/#screenshots" target="_blank">Screenshots</a></li>
+            <!-- <li><a href="index.html#setup" style="color:#555;">How to setup</a></li> -->
+            <li><a href="https://bizanalyst.in/#contact" target="_blank">Contact</a></li>
+            <li><a href="https://bizanalyst.in/faqs.html" target="_blank">Faqs</a></li>
+          </ul>
+        </div>
+      </nav>
+
+      <div class="navbar navbar-inverse navbar-fixed-top top-35" role="navigation">
         <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+          <button type="button" class="navbar-toggle custom-inverse-navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                   <span class="sr-only">Toggle navigation</span>
                   <span class="icon-bar"></span>
                   <span class="icon-bar"></span>
@@ -51,11 +89,11 @@
           <a class="navbar-brand" href="{{ site.baseurl }}/">
             <table border="0" cellspacing="0" cellpadding="0">
               <tr>
-                <td>
+                <!-- <td>
                   <img src="{{site.baseurl}}/images/logo-white-30x30.png" width="30" height="30" />
-                </td>
+                </td> -->
                 <td valign="middle">
-                  &nbsp; Biz Analyst Blog
+                  &nbsp; Blog
                 </td>
               </tr>
             </table>
@@ -64,10 +102,10 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav">
             <li class=""><a href="{{ site.baseurl }}/">Home</a></li>
-            <!-- <li class="active visible-xs-block"><a href="{{ site.baseurl }}/links.html">Links</a></li> -->
             <li class=""><a href="{{ site.baseurl }}/archive.html">Archive</a></li>
           </ul>
         </div>
       </div>
+      <!-- <li class="active visible-xs-block"><a href="{{ site.baseurl }}/links.html">Links</a></li> -->
     </div>
   </div>
