@@ -15,8 +15,8 @@ a {
 }
 
 .navbar-inverse {
-  background-color: #03a9f4;
-  border-color: #03a9f9;
+  background-color: #03a8f3;
+  border-color: #03a8f3;
 }
 
 .navbar-inverse .navbar-nav>li>a {
@@ -365,13 +365,13 @@ a {
 }
 
 .custom-navbar-toggle {
-  border: 1px solid #03a9f4;
+  border: 1px solid #03a8f3;
   margin-top: 3px;
   padding: 7px 8px;
 }
 
 .theme-background {
-  background: #03a9f4;
+  background: #03a8f3;
 }
 
 .custom-navbar-collapse {
@@ -407,8 +407,8 @@ a {
 
 .navbar-inverse .navbar-collapse,
 .navbar-inverse .navbar-form {
-  border-color: #0298db;
-  background-color: #0298db;
+  border-color: #03a8f3;
+  background-color: #03a8f3;
 }
 
 .navbar-header {
