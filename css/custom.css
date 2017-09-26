@@ -310,6 +310,7 @@ a {
   margin: 0 -15px;
   background-color: #fff;
   z-index: 9999;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
 
 .navbar-margin {
@@ -333,6 +334,7 @@ a {
   color: #fff !important;
   transition: background-color .3s;
   text-decoration: none !important;
+  font-size: 14px;
 }
 
 .try-btn:hover {
@@ -352,6 +354,7 @@ a {
 .web-nav>li>a {
   line-height: 6px !important;
   color: #555;
+  font-size: 14px;
 }
 
 @media (min-width: 768px) {
