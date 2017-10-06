@@ -9,7 +9,7 @@ comments: false
 ---
 
 ## View new features in update
-- With this release, we add support so that you can view all the new features that are available whenever we push out an update.
+- With this release, we add support to view all the new features that are available whenever we push out an update.
 - When a new update is available, a dialog will pop up on your app that will show you the features in the new app and ask you to update the app.
 
 ## Print Reports
