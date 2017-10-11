@@ -74,9 +74,9 @@ a {
 }
 */
 
-.well h1 {
-  font-size: 1.8em;
-  font-weight: 400;
+h1 {
+  font-size: 1.6em;
+  font-weight: 300;
 }
 
 .well h1 a {
