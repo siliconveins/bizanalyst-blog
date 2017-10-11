@@ -1,7 +1,7 @@
 ---
 layout: post
 metaTitle: "Tally Mobile App - Biz Analyst | Android App Release 1.5.2"
-title: "Biz Analyst (Tally Mobile App) - Tally ERP 9 Sales Vouchers Bill Wise"
+title: "Tally ERP 9 Sales Vouchers Bill Wise"
 date: 2017-10-07 16:25:06 +0530
 description: "View your Tally ERP 9 sales vouchers bill wise from the daybook report"
 imagefeature: "https://bizanalyst.in/assets/img/logo/logo-white-30x30.png"

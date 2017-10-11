@@ -1,7 +1,7 @@
 ---
 layout: post
 metaTitle: "Tally Mobile App - Biz Analyst | Android App Release 1.5.2"
-title: "Biz Analyst (Tally Mobile App) - Android Release 1.5.2"
+title: "Android Release 1.5.2"
 date: 2017-10-06 16:25:06 +0530
 description: "Biz Analyst (Tally on mobile app) Android version 1.5.2 adds ability to print reports and shows you new features available in new version"
 imagefeature: "https://bizanalyst.in/assets/img/logo/logo-white-30x30.png"

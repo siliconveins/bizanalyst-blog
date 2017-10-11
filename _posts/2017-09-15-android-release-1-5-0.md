@@ -1,7 +1,7 @@
 ---
 layout: post
 metaTitle: "Tally Mobile App - Biz Analyst | Android App Release 1.5.0"
-title: "Biz Analyst (Tally Mobile App) - Android Release 1.5.0"
+title: "Android Release 1.5.0"
 date: 2017-09-15 16:25:06 +0530
 description: "Biz Analyst (Tally on mobile app) Android version 1.5.0 adds fingerprint sensor for passcode unlocking, daybook filtering by voucher type and more"
 imagefeature: "https://bizanalyst.in/assets/img/logo/logo-white-30x30.png"

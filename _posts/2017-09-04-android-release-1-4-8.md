@@ -1,7 +1,7 @@
 ---
 layout: post
 metaTitle: "Tally Mobile App - Biz Analyst | Android App Release 1.4.8"
-title: "Biz Analyst (Tally Mobile App) - Android Release 1.4.8"
+title: "Android Release 1.4.8"
 date: 2017-09-04 16:25:06 +0530
 description: "Biz Analyst (Tally on mobile app) Android version 1.4.8 adds new capabilities to share all reports and improvements to pending sales order"
 imagefeature: "https://bizanalyst.in/assets/img/logo/logo-white-30x30.png"
