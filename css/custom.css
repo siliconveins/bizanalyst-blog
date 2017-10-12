@@ -156,6 +156,7 @@ h1 {
   -moz-transition: 0.2s ease;
   -o-transition: 0.2s ease;
   transition: 0.2s ease;
+  text-decoration: none;
   background-color: #03a9f4;
   color: #ffffff;
 }
