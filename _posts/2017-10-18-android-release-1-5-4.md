@@ -1,0 +1,44 @@
+---
+layout: post
+metaTitle: "Tally Mobile App - Biz Analyst | Android App Release 1.5.4"
+title: "Android Release 1.5.4"
+date: 2017-10-11 16:25:06 +0530
+description: "Biz Analyst (Tally on mobile app) Android version 1.5.4 brings Profit Los"
+imagefeature: "https://bizanalyst.in/assets/img/logo/logo-white-30x30.png"
+comments: false
+---
+
+## Profit and Loss Report
+- Finally, we bring to you the much awaited profit and loss report. You can access it from 'Reports -> Profit & Loss'. Currently, the report does not include inventory. 
+- By defualt, we show the report for the current month, but you can use the calendar icon at the top to change the time period.
+
+## Price List in Inventory
+- As requested by few customers, you can now view the price list /  standard price of any item if you have added that in Tally. 
+- To view the price list, Tap on 'Items' from the dashboard and then select any item. There you will see the price list. 
+- Note that, this change will go live next week after the desktop app update is released.
+
+## Inventory Purchase Reorder report
+- In the 'Items' tab on the dashboard, you can now filter your inventory by stock items that are below the reorder level.
+- Click on the filter icon on the 'Items' tab and select 'Reorder level' to view the items by their reorder level.
+
+## Permission to restrict sharing of reports for specific users
+- Now, you can restrict sharing of reports for additional users by changing the permission from the users screen.
+- With this setting, users with restricted sharing access will only be able to share invoices, ledger report and outstanding of a specific customer. Sharing of other reports will not be authorized.
+
+## View the expiry date of each batch and each godown inside inventory
+- While viewing the closing balance of any stock item, we showed you the breakdown by godown and batch. Now, we have also added the manufacturing date and expiry date if you have set that in Tally.
+
+## Miscellaneous
+- Sort the vouchers in daybook by date and voucher number.
+- Customers which have a poor payment performance are now highlighted in the receivables/payables screen.
+- On selecting custom date in receivable for a particular party, data was showing as 0. We have fixed that in this release
+- Fixed an issue where some users had problems sharing invoice/ledger report by PDF
+- Other minor UI improvements
+
+
+- If you have any requests/suggestions please use the report issue feature in the app or send us an email at contact@siliconveins.com
+
+
+{: .text-center}
+[UPDATE ANDROID](https://play.google.com/store/apps/details?id=in.bizanalyst){: .ghost-btn}
+
