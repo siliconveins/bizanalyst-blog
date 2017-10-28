@@ -3,7 +3,7 @@ layout: post
 metaTitle: "Tally Mobile App - Biz Analyst | Android App Release 1.5.4"
 title: "Android Release 1.5.4"
 date: 2017-10-11 16:25:06 +0530
-description: "Biz Analyst (Tally on mobile app) Android version 1.5.4 brings Profit Los"
+description: "Biz Analyst (Tally on mobile app) Android version 1.5.4 brings Profit Loss Report, Price List, Purchase reorder report and more"
 imagefeature: "https://bizanalyst.in/assets/img/logo/logo-white-30x30.png"
 comments: false
 ---
