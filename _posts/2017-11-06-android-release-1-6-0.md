@@ -8,20 +8,22 @@ imagefeature: "https://bizanalyst.in/assets/img/logo/logo-white-30x30.png"
 comments: false
 ---
 
-## Filter Ledgers by Ledger Group
+### Filter Ledgers by Ledger Group
 - In Ledger Report, you can now filter the list of ledgers using a ledger group. So, viewing all the bank ledgers, tax ledgers, etc just got easier than before.
 
-## Place of Supply
+### Place of Supply
 - Some business use place of supply in sharing invoice by PDF. We have added support for the same in this release.
 
-## Ageing Graph
+### Ageing Graph
 - In Receivables/Payables, ageing graph was not visible while selecting a custom date. We have added that now.
 
-## Miscellaneous
+### Miscellaneous
 - Critical bug fix in outstanding calculation.
 - Minor bug fixes and UI improvements.
 
-- If you have any requests/suggestions, please use the report issue feature in the app or send us an email at contact@siliconveins.com
+
+
+If you have any requests/suggestions, please use the report issue feature in the app or send us an email at contact@siliconveins.com
 
 
 {: .text-center}
