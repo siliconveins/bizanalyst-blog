@@ -21,7 +21,7 @@ comments: false
 - Critical bug fix in outstanding calculation.
 - Minor bug fixes and UI improvements.
 
-- If you have any requests/suggestions please use the report issue feature in the app or send us an email at contact@siliconveins.com
+- If you have any requests/suggestions, please use the report issue feature in the app or send us an email at contact@siliconveins.com
 
 
 {: .text-center}
