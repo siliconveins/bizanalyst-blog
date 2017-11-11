@@ -6,6 +6,10 @@ a {
   cursor: pointer;
 }
 
+p {
+  margin: 24px 0 24px 0;
+}
+
 .navbar-brand {
   float: left;
   height: 50px;
@@ -47,8 +51,7 @@ a {
 }
 
 .article {
-  font-size: 18px;
-  padding-bottom: 36px;
+  font-size: 1.2em;
 }
 
 .post-title {
@@ -114,8 +117,9 @@ a {
   display: inline-block;
   text-decoration: none;
   border: 1px solid #03a9f4;
-  height: 24px;
-  line-height: 24px;
+  height: 20px;
+  line-height: 20px;
+  margin: 24px 0 24px 0;
   color: #03a9f4;
   -webkit-border-radius: 5px;
   -webkit-background-clip: padding-box;
@@ -219,7 +223,7 @@ a {
   letter-spacing: -0.003em;
   font-style: normal;
   font-weight: 300;
-  font-size: 18px;
+  font-size: 1em;
   --x-height-multiplier: 0.375;
   --baseline-multiplier: 0.17;
 }
@@ -309,7 +313,6 @@ a {
   margin: 0 -15px;
   background-color: #fff;
   z-index: 9999;
-  font-family: medium-content-serif-font,Georgia,Cambria,"Times New Roman",Times,serif;
 }
 
 .navbar-margin {
