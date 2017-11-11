@@ -8,7 +8,7 @@ imagefeature: "https://bizanalyst.in/assets/img/logo/logo-white-30x30.png"
 comments: false
 ---
 
-## Settings
+### Settings
 - Default Date
   * Currently, when the app opens we show the default date as this year. We have now added a setting to change that to 'Today', 'This Week', 'This Month', 'This Quarter', 'This Year' as suitable for your business.
   * Change the default date from 'Settings -> Date Settings -> Default Date'
@@ -19,11 +19,11 @@ comments: false
   * Change this setting from 'Settings -> Currency Format'
 
 
-## Permissions by voucher type
+### Permissions by voucher type
 - In this release, we introduce adding permission by voucher type for each. By default, users will have access to all voucher types. If you give a particular user only permission to sales voucher type, then that user will not be able to see the details of any other voucher type except sales.
 
 
-## Miscellaneous
+### Miscellaneous
 - While sharing credit note, we showed the quantity and amount as -ve. We have fixed that now.
 - Now you view the voucher reference number in daybook for purchase vouchers and also search by it.
 - Bug fixes and Improvements

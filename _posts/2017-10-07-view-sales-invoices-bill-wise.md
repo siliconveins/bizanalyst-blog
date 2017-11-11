@@ -8,7 +8,7 @@ imagefeature: "https://bizanalyst.in/assets/img/logo/logo-white-30x30.png"
 comments: false
 ---
 
-## View sales/purchase vouchers bill wise
+### View sales/purchase vouchers bill wise
 
 You are using Biz Analyst and you want to access your sales vouchers bill wise like you do in Tally? Follow these simple steps to view the data bill wise.
 

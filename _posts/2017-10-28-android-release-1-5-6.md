@@ -8,10 +8,10 @@ imagefeature: "https://bizanalyst.in/assets/img/logo/logo-white-30x30.png"
 comments: false
 ---
 
-## Purchase Biz Analyst License directly from the app
+### Purchase Biz Analyst License directly from the app
 - Now all users can pay for a biz analyst license directly from the app. On successful purchase, a GST invoice will be emailed to the registered email address.
 
-## Miscellaneous
+### Miscellaneous
 - Added Purcahse date in addition to voucher date.
 - Fixed an issue where the party GSTIN was not shown in certain cases while sharing PDF.
 - Other bugs and UI improvements.

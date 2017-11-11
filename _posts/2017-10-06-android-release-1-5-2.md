@@ -8,15 +8,15 @@ imagefeature: "https://bizanalyst.in/assets/img/logo/logo-white-30x30.png"
 comments: false
 ---
 
-## View new features in update
+### View new features in update
 - With this release, we add support to view all the new features that are available whenever we push out an update.
 - When a new update is available, a dialog will pop up on your app that will show you the features in the new app and ask you to update the app.
 
-## Print Reports
+### Print Reports
 - Now while sharing a report, you will also see an option to print reports directly from your app. If you have configured a printer in your android phone, this should work out of the box. Else, you will have to configure the printer first on your mobile.
 - One can also save the file as PDF instead of printing a hard copy
 
-## Miscellaneous
+### Miscellaneous
 - Bug fixes and Improvements
 
 {: .text-center}
