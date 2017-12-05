@@ -4,7 +4,7 @@ name: Biz Analyst Blog
 description: Stay updated with all the latest news about the best Tally on Mobile App
 
 # url is currently only used only for the RSS feed in feed.xml
-url: https://siliconveins.github.io/bizanalyst-blog
+url: https://blog.bizanalyst.in
 
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
@@ -30,7 +30,7 @@ isso: ''
 disqus: ''
 
 permalink: /:year/:month/:title
-paginate: 3
+paginate: 10
 
 highlighter: rouge
 markdown: kramdown
