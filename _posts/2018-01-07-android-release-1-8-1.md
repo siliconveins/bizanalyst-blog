@@ -9,7 +9,7 @@ comments: false
 ---
 
 
-### Oustandings (Receivable/Payable) ageing report
+### Outstanding (Receivable/Payable) ageing report
 - For receivables/payables, while filtering data we were showing options like 0-30, 30-60, 60-90 etc to filter the list by bills pending in the selected range. However we have now changed that to all pending bills >0, >30, >60, >90 etc so that sharing bills older than a given range becomes easier as compared to before.
 - The graph of ageing bills will be same as it used to be before.
 
